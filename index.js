@@ -1,4 +1,4 @@
-const baseURL = `http://localhost:3000/characters`
+const baseURL = `https://my-json-server.typicode.com/TassYass/codechallenge2/characters`
 
 
  fetch(baseURL) 
